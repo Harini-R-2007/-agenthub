@@ -1,0 +1,9 @@
+{
+  "name": "AgentHub",
+  "description": "A production-ready AI Agents Marketplace for discovery, testing, and multi-agent collaboration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
